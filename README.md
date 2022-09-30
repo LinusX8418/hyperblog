@@ -5,4 +5,6 @@ Agregaddo de nuevo
 
 Se modifica el archivo readme punto emede
 
+Creado por el increíble Platzi team
+
 
