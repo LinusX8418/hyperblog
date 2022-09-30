@@ -7,4 +7,4 @@ Se modifica el archivo readme punto emede
 
 Creado por el increíble Platzi team
 
-
+Incluye ejemplos en Windows, Linux y Mac
